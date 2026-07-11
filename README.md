@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
