@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0739-daily-temperatures](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1672-richest-customer-wealth](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0344-reverse-string) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
