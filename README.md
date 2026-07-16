@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0739-daily-temperatures](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Stack
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0051-n-queens) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
