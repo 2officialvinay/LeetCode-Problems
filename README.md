@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0445-add-two-numbers-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
