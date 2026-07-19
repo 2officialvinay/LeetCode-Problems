@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0445-add-two-numbers-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+| [2235-add-two-integers](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
