@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1672-richest-customer-wealth](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2574-left-and-right-sum-differences](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0445-add-two-numbers-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
