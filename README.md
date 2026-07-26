@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0476-number-complement](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0476-number-complement) |
 ## Sorting
 |  |
 | ------- |
