@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0202-happy-number) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
