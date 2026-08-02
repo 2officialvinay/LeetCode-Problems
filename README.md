@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
