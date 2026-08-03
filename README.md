@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0905-sort-array-by-parity](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Number Theory
 |  |
