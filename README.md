@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0739-daily-temperatures](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
