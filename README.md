@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0414-third-maximum-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
@@ -126,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0135-candy) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
