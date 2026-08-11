@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0169-majority-element) |
