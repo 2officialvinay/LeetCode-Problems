@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2697-lexicographically-smallest-palindrome) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0135-candy) |
 | [0680-valid-palindrome-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Divide and Conquer
 |  |
 | ------- |
