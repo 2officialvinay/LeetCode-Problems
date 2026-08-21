@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0258-add-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0476-number-complement) |
 ## Sorting
