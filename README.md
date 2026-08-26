@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2460-apply-operations-to-an-array) |
