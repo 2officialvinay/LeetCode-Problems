@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
