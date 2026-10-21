@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
