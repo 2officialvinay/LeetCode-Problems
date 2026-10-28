@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/2officialvinay/LeetCode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/2officialvinay/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/2officialvinay/LeetCode-Problems/tree/master/2697-lexicographically-smallest-palindrome) |
